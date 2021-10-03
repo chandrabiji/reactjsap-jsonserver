@@ -1,0 +1,38 @@
+{
+  "login":[
+    {
+      "user":"chandu",
+      "password":"ojas@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Hyderabad",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Secundrabad",
+      "rating": "4.5",
+      "email": "mcdonal@test.com"
+    },
+    {
+      "name": "Santosh Daba",
+      "email": "santoshdaba@test.com",
+      "address": "Hyderabad",
+      "rating": "4.5",
+      "id": 3
+    },
+    {
+      "name": "Rayaseema Ruchulu",
+      "email": "rayaseemaruchulu@test.com",
+      "address": "Madapur",
+      "rating": "4.8",
+      "id": 4
+    }
+  ]
+}
